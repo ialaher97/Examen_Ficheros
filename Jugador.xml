@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Jugador Jugador="El Jugador">
+    <ListaDeArmas>
+        <Armas>espada</Armas>
+        <Armas>arco</Armas>
+        <Armas>escudo</Armas>
+    </ListaDeArmas>
+    <ListaDePociones>
+        <Pociones>curación</Pociones>
+        <Pociones>daño</Pociones>
+        <Pociones>velocidad</Pociones>
+    </ListaDePociones>
+</Jugador>
